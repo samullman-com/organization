@@ -1,12 +1,11 @@
 
 # SAMULLMAN.COM LLC
 
-# Active Projects
-* [samullman.com](https://samullman.com/)
-* [char.company](https://char.company/)
-* [pot.land](https://pot.land/)
-* [music player](https://samullman.com/)
-* [Mean Coffee Company](https://meancoffee.co)
+# Projects
+* [The Character Company](https://char.company/)
+* [Pot Land](https://pot.land/)
+* [Toonz](https://toonz.app/)
+* [Mean Coffee](https://meancoffee.co)
 * [Gatsby University](https://gatsbyuniversity.com/)
 
 <div>
