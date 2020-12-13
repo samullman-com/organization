@@ -3,10 +3,11 @@
 
 # Active Projects
 * [samullman.com](https://samullman.com/)
-* [music player](https://samullman.com/)
 * [char.company](https://char.company/)
 * [pot.land](https://pot.land/)
+* [music player](https://samullman.com/)
 * [Mean Coffee Company](https://meancoffee.co)
+* [Gatsby University](https://gatsbyuniversity.com/)
 
 <div>
   <a href="https://samullman.com/" target="_blank">
